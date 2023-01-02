@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Wojciech, I'm a student at AGH, cybersecurity.
+My name is Wojciech, I'm studying cybersecurity at AGH.
 
 <!--
 **matuszynskiwojciech/matuszynskiwojciech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
